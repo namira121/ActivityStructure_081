@@ -29,7 +29,7 @@ int main() {
 	cout << "\n\tMasukkan Desa : ";
 	cin.getline(mhs.alamat.desa, 20);
 	cout << "\n\tMasukkan Kota : ";
-	cin.getline(mhs.alamat.kota, 20); 
+	cin.getline(mhs.alamat.kota, 20);  
 
 
 	cout << "NIM : " << mhs.nim;
