@@ -7,7 +7,7 @@ struct DetailAlamat
 	char kota[20];
 };
 
-struct Mahasiswa
+struct Mahasiswa 
 {
 	char nim[12];
 	char nama[20];
