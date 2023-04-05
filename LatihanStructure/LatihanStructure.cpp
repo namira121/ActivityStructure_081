@@ -38,6 +38,4 @@ int main() {
 	cout << "\nAlamat : ";
 	cout << "\n\tDesa : " << mhs.alamat.desa;
 	cout << "\n\tKota : " << mhs.alamat.kota;
-
-	
 }
