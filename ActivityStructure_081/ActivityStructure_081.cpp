@@ -15,7 +15,7 @@ int main() {
 	mhs.nim = "20210140019";
 	mhs.umur = 20;
 	mhs.nama = "Ardian Mulya";
-	mhs.alamat = "Wonosobo";
+	mhs.alamat = "Wonosobo"; 
 
 	cout << "Masukkan NIM : ";
 	cin >> mhs2.nim;
