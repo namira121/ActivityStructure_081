@@ -32,10 +32,12 @@ int main() {
 	cin.getline(mhs.alamat.kota, 20);  
 
 
-	cout << "NIM : " << mhs.nim;
+	cout << "\n\nNIM : " << mhs.nim;
 	cout << "\nUmur : " << mhs.umur;
 	cout << "\nNama : " << mhs.nama;
 	cout << "\nAlamat : ";
+	cout << "\n\tDesa : " << mhs.alamat.desa;
+	cout << "\n\tKota : " << mhs.alamat.kota;
 
 	
 }
